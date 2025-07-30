@@ -21,3 +21,12 @@
     - [x] calculator-container
     - [x] calculator-head
     - [ ] calculator-body
+
+5. Fix bugs in styles.css
+    - [x] Button size too big
+        - Make font size larger
+        - Increase font size in calculator-head children
+    - [x] Border radius not applying to calculator-head children
+        - Apply rtl text direction to children
+        - Set width to 90% of parent
+        - Align children to center from calculator-head
