@@ -2,11 +2,17 @@
 
 ## Checklist Tasks:
 1. Touch files
-    - [ ] index.html
-    - [ ] styles.css
-    - [ ] script.js
+    - [x] index.html
+    - [x] styles.css
+    - [x] script.js
 
 2. Initialize index.html essentials
-    - [ ] Boilerplate
-    - [ ] Link to styles.css
-    - [ ] Link to script.js
+    - [x] Boilerplate
+    - [x] Link to styles.css
+    - [x] Link to script.js
+
+3. Add structure to index.html
+    - [x] Add header, main and footer
+    - [x] Add calculator head and body
+    - [x] Add input interface to calculator-head
+    - [x] Add buttons to calculator-body
