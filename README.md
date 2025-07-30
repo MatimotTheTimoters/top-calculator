@@ -16,3 +16,8 @@
     - [x] Add calculator head and body
     - [x] Add input interface to calculator-head
     - [x] Add buttons to calculator-body
+
+4. Add styles to styles.css
+    - [x] calculator-container
+    - [x] calculator-head
+    - [ ] calculator-body
