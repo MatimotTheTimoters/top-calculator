@@ -47,7 +47,6 @@ body {
     border-radius: 20px;
     color: #FFFFFF;
     font-size: xx-large;
-    direction: rtl;
 
     display: flex;
     flex-flow: column;
